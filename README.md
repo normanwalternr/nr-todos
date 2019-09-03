@@ -4,14 +4,23 @@ A simple todo app with todo item details
 
 # Install
 
+```bash
 npm ci
+```
 
 # Run dev
 
-- npm run dev
-or
-- npm run serve
+```bash
+npm run dev
+```
 
+or
+
+```bash
+npm run serve
+```
 # Build app
 
+```bash
 npm run build
+```
